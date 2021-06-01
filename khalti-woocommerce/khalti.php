@@ -4,17 +4,17 @@
  * Plugin URI:        
  * Description:       Payment Gateway Module for Khalti. Start accepting payments from Khalti. Check all transactions and refund payments right from the dashboard
  * Version:           1.0.0
- * Author:            Bibek M Acharya
- * Author URI:        https://github.com/manibibek
+ * Author:            Sanjog Humagain
+ * Author URI:        http://sanjoghumagain.com.np/
  * Requires at least: 4.0
- * Tested up to:      4.0
+ * Tested up to:      5.7.2
  * Text Domain:       khalti
  * Domain Path:       languages
  * Network:           false
- * GitHub Plugin URI: https://github.com/khalti/khalti-woocommerce
+ * GitHub Plugin URI: https://github.com/phyverse/khalti
  *
  * @package  Khalti
- * @author   Bibek M Acharya / 4 Walls Innovations
+ * @author   Sanjog Humagain / 4 Walls Innovations
  * @category Core
  */
 
